@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Poster](./poster.png)
+![Poster](./Poster.png)
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-blue?style=for-the-badge&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.19-purple?style=for-the-badge&logo=solidity)
