@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Poster](./poster.png)
+
 ![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-blue?style=for-the-badge&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.19-purple?style=for-the-badge&logo=solidity)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
@@ -112,6 +114,7 @@ blockchain-reviews/
 │   ├── index.css
 │   └── main.jsx
 ├── ProductReview.sol             # Smart contract
+├── poster.png                    # Poster đồ án
 ├── index.html
 ├── package.json
 ├── tailwind.config.js
@@ -132,7 +135,7 @@ blockchain-reviews/
 ### Bước 1 — Clone & cài dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/blockchain-reviews.git
+git clone https://github.com/HQuan-Java/blockchain-reviews.git
 cd blockchain-reviews
 npm install
 ```
